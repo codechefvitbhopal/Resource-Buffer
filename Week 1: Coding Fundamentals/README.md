@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left">BIG(0-NOTATION)</h2>
+<h2 align="left">BIG(O-NOTATION)</h2>
 
 <h3 align = "left">Basic</h3>
 
