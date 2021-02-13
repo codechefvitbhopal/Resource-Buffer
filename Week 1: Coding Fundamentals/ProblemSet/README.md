@@ -24,6 +24,10 @@
 | ★★☆ | [Missing Number](https://codeforces.com/contest/1475/problem/B)                               | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Statistics of strings](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/statistics-of-strings-3bec3843/)                         | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [New Year's Number](https://codeforces.com/contest/1475/problem/B)                                            | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [CHEF & FRIENDS](https://www.codechef.com/problems/FRUITS)                         | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Coin Piles](https://cses.fi/problemset/task/1754)                         | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Balanced Rating Changes](https://codeforces.com/problemset/problem/1237/A)                         | <ul> <li> [ ] </li> </ul> |
+
 
 
 
