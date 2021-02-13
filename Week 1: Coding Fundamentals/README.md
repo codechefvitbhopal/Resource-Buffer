@@ -1,6 +1,7 @@
 <h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
 
+
 <h2 align="left">BIG(0-NOTATION)</h2>
 
 <h3 align = "left">Basic</h3>
@@ -11,6 +12,8 @@
 <a href="https://www.youtube.com/watch?v=__vX2sjlpXU" target="blank">Big-O notation in 5 minutes</a>
 <br>
 
+
+<h3 align="left">Advance</h3>
 
 <a href="https://www.youtube.com/watch?v=i1F_Uu0bYCc" target="blank">Definition Of Big O Notation - Intro to Theoretical Computer Science</a>
 
@@ -29,7 +32,7 @@
 
 
 
-<h3 align="left">Advanced</h3>
+<h3 align="left">For more information:</h3>
 
 <a href="https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/" target="blank">A beginner's guide to Big O notation</a>
 
@@ -49,12 +52,36 @@
 
 <h2 align="left">Loops</h2>
 
-<a href="https://dev.to/vishesht27" target="blank"></a>
-https://www.tutorialspoint.com/computer_programming/computer_programming_loops.htm
+<h4 align="left">C++:</h4>
+
+<a href="https://www.tutorialspoint.com/cplusplus/cpp_loop_types.htm" target="blank">C++ & Loops</a>
+
+<a href="https://www.geeksforgeeks.org/loops-in-c-and-cpp/" target="blank">Loops in C & C++</a>
+
+<h4 align="left">Java:</h4>
+
+<a href="https://www.javatpoint.com/java-for-loop" target="blank">Java & Loops</a>
+
+<a href="https://www.geeksforgeeks.org/loops-in-java/" target="blank">Loops in Java</a>
+
+
+<h4 align="left">Python:</h4>
+
+<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Python & Loops</a>
+
+<a href="https://www.geeksforgeeks.org/loops-in-python/" target="blank">Loops in Python</a>
 
 <h2 align ="left">Conditions</h2>
  
-<a href="https://dev.to/vishesht27" target="blank"></a> 
-https://www.geeksforgeeks.org/c-c-if-else-statement-with-examples/
+<h4 align="left">C++:</h4>
 
+<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in C++</a>
+
+<h4 align="left">Java:</h4>
+
+<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in Java</a>
+
+<h4 align="left">Python:</h4>
+
+<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in Python</a>
 
