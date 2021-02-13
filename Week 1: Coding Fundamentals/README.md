@@ -1,4 +1,4 @@
-<h1 align="center">CODING FUNDAMENTALS</h1>
+<h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
 
 <h2 align="left">BIG(0-NOTATION)</h2>
