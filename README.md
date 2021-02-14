@@ -27,6 +27,7 @@
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">Resources</a>   </li>
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet" target="blank">Problem Set</a></li>  
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet/General%20Solutions" target="blank"> Upload</a> your answers here</li>  
+    <br />
   Hurray! But no kitkat break for you! </p>
 <h3 align="center"> Finally, all the very best to everyone! Remember you never lose, you only learn. So, learn, code and repeat!</h3>
   
