@@ -25,7 +25,7 @@
     &nbsp;<strong>Week 1: Coding Fundamentals</strong> 
   <ul>
     <ul>
-    <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">Resources</a>   </li>
+    <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/Resources#coding-fundamentals-resources" target="blank">Resources</a>   </li>
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet" target="blank">Problem Set</a></li>  
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet/General%20Solutions" target="blank"> Upload</a> your answers here</li>  
     </ul>
