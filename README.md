@@ -22,11 +22,12 @@
   <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="" target="blank"> here.</a>. 
   
   <p> If you are still having issues with accessing the material, use these links: <br />
-    <strong>Week 1: Coding Fundamentals</strong> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Week 1: Coding Fundamentals</strong> 
   <ul>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">Resources</a>   </li>
+    <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">Resources</a>   </li>
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet" target="blank">Problem Set</a></li>  
     <li><a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet/General%20Solutions" target="blank"> Upload</a> your answers here</li>  
+  </ul>
     <br /><br />
   Hurray! But no kitkat break for you! </p>
 <h3 align="center"> Finally, all the very best to everyone! Remember you never lose, you only learn. So, learn, code and repeat!</h3>
