@@ -88,7 +88,7 @@ Loops are supported by all modern programming languages, though their implementa
 
 Conditional statements are part of our everyday lives. As people, we can think about situations and make decisions based on what we observe or know to be true.
 
-In programming, a great example of a condition is a password. Passwords are “if, then” logic statements: If a user enters the correct password, then they can access the program.</p>
+In programming, a great example of a condition is a password. Passwords are “if, else” logic statements: If a user enters the correct password, then they can access the program.</p>
  
 <h4 align="left">C++:</h4>
 
