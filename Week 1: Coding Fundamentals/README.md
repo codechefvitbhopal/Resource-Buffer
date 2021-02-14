@@ -83,6 +83,12 @@ Loops are supported by all modern programming languages, though their implementa
 <a href="https://www.geeksforgeeks.org/loops-in-python/" target="blank">Loops in Python</a>
 
 <h2 align ="left">Conditions</h2>
+
+<p>Conditions are basic “if, then” logic statements that modify how code is executed. Conditions are a key part of the decision-making process for computers.
+
+Conditional statements are part of our everyday lives. As people, we can think about situations and make decisions based on what we observe or know to be true.
+
+In programming, a great example of a condition is a password. Passwords are “if, then” logic statements: If a user enters the correct password, then they can access the program.</p>
  
 <h4 align="left">C++:</h4>
 
