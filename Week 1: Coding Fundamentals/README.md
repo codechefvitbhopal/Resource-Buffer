@@ -58,6 +58,11 @@
 
 <h2 align="left">Loops</h2>
 
+
+<p>In computer science, a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Programmers use loops to cycle through values, add sums of numbers, repeat functions, and many other things.
+
+Loops are supported by all modern programming languages, though their implementations and syntax may differ. Two of the most common types of loops are the while loop and the for loop.</p>
+
 <h4 align="left">C++:</h4>
 
 <a href="https://www.tutorialspoint.com/cplusplus/cpp_loop_types.htm" target="blank">C++ & Loops</a>
