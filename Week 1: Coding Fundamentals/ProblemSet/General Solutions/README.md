@@ -1,1 +1,3 @@
-All the soultions are to be uploaded here.
+<strong> UPLOAD YOUR SOLUTIONS HERE!! 
+  <br />HAPPY CODECHEFING.
+</strong>
