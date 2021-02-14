@@ -19,11 +19,13 @@
   <li> <strong>Q)</strong> I am from a branch other than CSE, am I allowed to participate?<br><strong>A)</strong>Not just allowed but highly encouraged too!</li>
   <li> <strong>Q)</strong> I know nothing about GitHub or coding in general. Will I be able to power through?<br><strong>A)</strong> Well, for sure! This series is exclusively aimed at the newbies, but ofcourse participation of all programmers is highly encouraged. To learn more about GitHub, you can tune into <a href="https://youtu.be/iv8rSLsi1xo" target="blank"> this </a> video.</li>
   </ul>
-  <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="" target="blank"> here.</a>
-  <p> If you are still having issues with accessing the material, 
-    Link to Week 1 - <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">here</a> is a link to the folder of the 1st week's resources, 
-    <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet" target="blank"> this </a> one will direct you to the problem set and finally you can upload your answers 
-    <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet/General%20Solutions" target="blank"> here.</a> Hurray! But no kitkat break for you! </p>
+  <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="" target="blank"> here.</a>. 
+  
+  <p> If you are still having issues with accessing the material, use these links.    
+    Week 1: Coding Fundamentals - <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals" target="blank">Resources</a>   
+    <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet" target="blank">Problem Set</a>.  
+    <a href="https://github.com/codechefvitbhopal/Resource-Buffer/tree/main/Week%201:%20Coding%20Fundamentals/ProblemSet/General%20Solutions" target="blank"> Upload</a> your answers here.  
+  Hurray! But no kitkat break for you! </p>
 <h3 align="center"> Finally, all the very best to everyone! Remember you never lose, you only learn. So, learn, code and repeat!</h3>
   
   
