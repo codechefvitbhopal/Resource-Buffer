@@ -8,7 +8,10 @@
   <li>Go through the 'README.md' file which opens automatically once you click on the folder. This contains all the references and links required for aqcuiring a basic know-how of the topic</li>
   <li> Take a break, have a kitkat, so much knowledge is not easy to digest at one go, we know :))</li>
   <li> Once you are comfortable with the topic, click on the 'ProblemSet' file and you'll find links to a set of stimulating problems related to the given topic.</li>
-  <li> After you've gone through those conundrums and finally worked out your solutions(phewww!), you can post your answers by clicking on the 'General Solutions' file. Here, you have to click on the 'Add file' tab and select 'Upload files' from the drop-down menu. Now you can either directly drag files to add them to the repository or choose the required files from your device</li>
+  <li> After you've gone through those conundrums and finally worked out your solutions(phewww!), you can post your answers by clicking on the 'General Solutions' file. Here, you have to click on the 'Add file' tab and select 'Create New File' from the drop-down menu.</li>
+  <li>Name your file according to the format given below and copy paste your code in the 'Edit new file' section. </li>
+  <li>Click on the 'Propose new File' tab and then on the 'Create pull request' tab. Your work for the day is done!</li>
+   
   <li> Give the file your name, followed by reg no. & question number in a format like "myname_18bce001_q1". </li>
   <li> And viola! You are done for the day! Now it is time for another break and don't forget to gear up for the next week's challenge. See ya 👋</li>
   </ol>
