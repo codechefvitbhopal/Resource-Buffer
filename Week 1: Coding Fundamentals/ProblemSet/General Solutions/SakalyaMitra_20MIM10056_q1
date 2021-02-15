@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int T;
+	cin>>T;
+    while(T--){
+		int n,sum,firstdig,lastdig;
+		cin>>n;
+		lastdig=n%10;
+		while(n>0){
+			firstdig=n;
+			n=n/10;
+		}
+		sum=firstdig + lastdig;
+		cout<<sum<<endl;
+	
+
+	}
+	return 0;
+}
