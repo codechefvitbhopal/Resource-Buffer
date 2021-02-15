@@ -92,13 +92,13 @@ In programming, a great example of a condition is a password. Passwords are “i
  
 <h4 align="left">C++:</h4>
 
-<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in C++</a>
+<a href="https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/" target="blank">Conditionals in C++ & C</a>
 
 <h4 align="left">Java:</h4>
 
-<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in Java</a>
+<a href="https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/" target="blank">Conditionals in Java</a>
 
 <h4 align="left">Python:</h4>
 
-<a href="https://www.tutorialspoint.com/python/python_loops.htm" target="blank">Conditionals in Python</a>
+<a href="https://www.geeksforgeeks.org/python-if-else/" target="blank">Conditionals in Python</a>
 
