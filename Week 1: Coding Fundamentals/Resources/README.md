@@ -1,6 +1,6 @@
 <h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
-(https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<iframe src="https://giphy.com/embed/Wsju5zAb5kcOfxJV9i" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/keyboard-admin-prtg-Wsju5zAb5kcOfxJV9i">via GIPHY</a></p>
 
 <h2 align="left">BIG(O-NOTATION)</h2>
 
