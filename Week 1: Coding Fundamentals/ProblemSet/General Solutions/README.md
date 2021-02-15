@@ -1,3 +1,3 @@
 <strong> UPLOAD YOUR SOLUTIONS HERE!! 
-  <br />HAPPY CODECHEFING.
+  <br />HAPPY CODECHEFING. 👋
 </strong>
