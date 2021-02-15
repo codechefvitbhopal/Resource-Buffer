@@ -21,7 +21,7 @@
   </ul>
   <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="" target="blank"> here.</a>. 
   
-  <p> If you are still having issues with accessing the material, use these links: <br />
+  <p> If you are still having issues accessing the material, use these links: <br />
     &nbsp;<strong>Week 1: Coding Fundamentals</strong> 
   <ul>
     <ul>
