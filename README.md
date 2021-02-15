@@ -19,7 +19,7 @@
   <li> <strong>Q)</strong> I am from a branch other than CSE, am I allowed to participate?<br><strong>A)</strong>Not just allowed but highly encouraged too!</li>
   <li> <strong>Q)</strong> I know nothing about GitHub or coding in general. Will I be able to power through?<br><strong>A)</strong> Well, for sure! This series is exclusively aimed at the newbies, but ofcourse participation of all programmers is highly encouraged. To learn more about GitHub, you can tune into <a href="https://youtu.be/iv8rSLsi1xo" target="blank"> this </a> video.</li>
   </ul>
-  <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="" target="blank"> here.</a>. 
+  <p> Now, if you're still unclear as to how to go about it, we have a video specifically created for our dear coders! Check it out <a href="https://youtu.be/YMtMMZjaFWM" target="blank"> here.</a>. 
   
   <p> If you are still having issues accessing the material, use these links: <br />
     &nbsp;<strong>Week 1: Coding Fundamentals</strong> 
