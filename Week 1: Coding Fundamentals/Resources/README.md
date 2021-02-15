@@ -58,6 +58,8 @@
 
 <h2 align="left">Loops</h2>
 
+![noooooooo](https://media.giphy.com/media/GLF8IKQ1Fvws3BzQ9v/giphy.gif)
+
 
 <p>In computer science, a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Programmers use loops to cycle through values, add sums of numbers, repeat functions, and many other things.
 
@@ -83,6 +85,7 @@ Loops are supported by all modern programming languages, though their implementa
 <a href="https://www.geeksforgeeks.org/loops-in-python/" target="blank">Loops in Python</a>
 
 <h2 align ="left">Conditions</h2>
+
 
 <p>Conditions are basic “if, then” logic statements that modify how code is executed. Conditions are a key part of the decision-making process for computers.
 
