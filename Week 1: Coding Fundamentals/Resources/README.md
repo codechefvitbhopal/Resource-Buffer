@@ -1,6 +1,6 @@
 <h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
-![no](https://drive.google.com/file/d/1eObo55C08sGpkds_sYcFCpXFLtpe8gxd/view?usp=sharing)
+![noooooooo](http://i.giphy.com/fIyBQtxwwZYhq.gif)
 
 <h2 align="left">BIG(O-NOTATION)</h2>
 
