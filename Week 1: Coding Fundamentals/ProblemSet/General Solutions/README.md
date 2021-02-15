@@ -1,3 +1,3 @@
-<strong> UPLOAD YOUR SOLUTIONS HERE!! https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+<strong> UPLOAD YOUR SOLUTIONS HERE!! 
   <br />HAPPY CODECHEFING.
 </strong>
