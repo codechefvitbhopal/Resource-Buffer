@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int t; //testcases
+    cin>>t;
+    while(t--)
+    {
+        string str;
+        cin>>str;
+        int first, last;
+        first=str[0]-'0';    //1
+        last=str[str.length()-1]-'0';                        
+        cout<<first+last<<endl;   
+    }                            
+    return 0;
+}
