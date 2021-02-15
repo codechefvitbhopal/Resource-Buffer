@@ -1,6 +1,6 @@
 <h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
-
+![noooooooo](https://gph.is/g/EJgkj7e)
 
 <h2 align="left">BIG(O-NOTATION)</h2>
 
