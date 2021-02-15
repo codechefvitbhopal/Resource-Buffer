@@ -1,6 +1,6 @@
 <h1 align="center">CODING FUNDAMENTALS: Resources</h1>
 
-<div class="tenor-gif-embed" data-postid="4903969" data-share-method="host" data-width="100%" data-aspect-ratio="1.6666666666666667"><a href="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969">Typing Jim Carrey GIF</a> from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![no](https://drive.google.com/file/d/1eObo55C08sGpkds_sYcFCpXFLtpe8gxd/view?usp=sharing)
 
 <h2 align="left">BIG(O-NOTATION)</h2>
 
