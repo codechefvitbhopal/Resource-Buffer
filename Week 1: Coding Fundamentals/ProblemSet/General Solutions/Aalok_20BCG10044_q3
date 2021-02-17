@@ -1,0 +1,5 @@
+n = int(input())
+given = list(map(int,input().split()))
+total = n*(n+1)//2
+given_sum = sum(given)
+print(total-given_sum)
