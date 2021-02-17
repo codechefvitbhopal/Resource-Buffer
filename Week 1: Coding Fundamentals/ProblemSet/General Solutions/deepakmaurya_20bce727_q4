@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i;
+    cin>>i;
+    while(i--){
+      int n;
+      cin>>n;
+      int k=n%10;
+      for(int x=1;x<=k;x++){
+          n=n-2021;
+          if(n<=0){
+              break;
+          }
+      }
+      while(n>0){
+          n=n-2020;
+          if(n<=0){
+              break;
+          }
+      }
+      if(n==0){
+          cout<<"YES"<<endl;
+      }else{
+          cout<<"NO"<<endl;
+      }
+   }
+    return 0;
+}
