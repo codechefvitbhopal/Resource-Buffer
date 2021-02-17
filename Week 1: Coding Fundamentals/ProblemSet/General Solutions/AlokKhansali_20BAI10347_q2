@@ -1,0 +1,17 @@
+import java.util.*;
+public class nuo
+{
+    public static void main(String args[])
+    {
+        Scanner I=new Scanner(System.in);
+        int p=I.nextInt(),n=I.nextInt(),u=I.nextInt(),s=p-n;
+        if(s>0 &&s>u)
+         System.out.println("+");
+        else if(s<0&& (-s)>u)
+          System.out.println("-");
+        else if(s==0 &&u==0)
+           System.out.println("0");
+        else
+          System.out.println("?"); 
+        }
+    } 
