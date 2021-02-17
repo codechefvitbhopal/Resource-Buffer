@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i;
+    cin>>i;
+    while(i--){
+        int n,m,k;
+        cin>>n>>m>>k;
+        for(int x=1;x<=k;x++){
+            if(n>m){
+                m+=1;
+            }else{
+                n+=1;
+            }
+        }
+        cout<<n-m<<endl;
+    }
+    return 0;
+}
