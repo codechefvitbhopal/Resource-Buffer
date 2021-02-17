@@ -1,0 +1,9 @@
+def missingnumber(L):
+    n = len(L)
+    total = (n + 1)*(n + 2)/2
+    SumL = sum(L)
+    return (total - SumL)
+
+L=list(map(int,input().split())
+answer=missingnumber(L)
+print(answer)
