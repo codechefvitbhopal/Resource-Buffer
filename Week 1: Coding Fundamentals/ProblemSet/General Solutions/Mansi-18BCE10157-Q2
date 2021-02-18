@@ -1,0 +1,26 @@
+package demo;
+import java.util.Scanner;
+
+public class demo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Scanner obj=new Scanner(System.in);
+        int up=obj.nextInt();
+        int dw=obj.nextInt();
+        int no=obj.nextInt();
+        if(up>dw+no) {
+        	System.out.println("+");
+        }
+        else if(dw>up+no) {
+        	System.out.println("-");
+        }
+        else if(up==dw || no==0){
+        	System.out.print("0");
+        }
+        else {
+        	System.out.println("?");
+        }
+	}
+
+}
