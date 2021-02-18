@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i,sum=0;
+    cin>>i;
+    int a[i];
+    for(int x=0;x<i;x++){
+        cin>>a[x];
+        a[x]=a[x]/2;
+        sum+=a[x];
+    }
+    if(sum>0){
+        for(int p=0;p<i;p++){
+            if(a[p]%2==0){
+                a[p]=a[p]-1;
+              sum-=1;
+            }
+            if(sum==0){break;}
+        }
+    }
+    if(sum<0){
+        for(int p=0;p<i;p++){
+            if(a[p]%2==0){
+                a[p]=a[p]+1;
+              sum+=1;
+            }
+            if(sum==0){break;}
+        }
+    }
+    for(int p=0;p<i;p++){
+        cout<<a[p]<<endl;
+    }
+    return 0;
+}
