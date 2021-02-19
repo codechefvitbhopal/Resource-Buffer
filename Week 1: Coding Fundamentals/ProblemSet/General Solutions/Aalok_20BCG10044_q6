@@ -1,0 +1,16 @@
+for _ in range(int(input())):
+    l,r = map(int,input().split())
+    if l==r:
+        if l%3==0:
+            print("Yes")
+        else:
+            print('No')    
+    else:
+        m = min(l,r)
+        k = l+r-m
+        n = m*2
+        if n==k:
+            print("Yes")
+        else:
+            print('No')    
+                
