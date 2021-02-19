@@ -1,0 +1,59 @@
+//cpp code      31ms
+ #include <bits/stdc++.h>
+using namespace std;
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+        int n;
+        cin>>n;
+        int b[n],r=1;                  //array creation
+        for (int i=0;i<n;i++)
+       {
+          int x;
+          cin>>x;
+          if(x%2==0)
+                b[i]=x/2;               //even no.s can be directly didvided by 2
+          else
+            {
+                b[i]=(int)((double)x/2+(double)(0.5*r)); //odd no.s undergo a pattern with one floor division and one ceil division alternatively or vice versa
+                r*=-1;     //alernate manipulation
+            }
+        }
+       for (int i=0;i<n;i++)
+          cout<<b[i]<<'\n';
+       return (0);
+}
+//java code: just syncing syntax    343 ms
+import java.util.*;
+public class bl
+{
+   public static void main(String args[])
+   {
+      Scanner I=new Scanner(System.in);
+      int n=I.nextInt(),b[]=new int[n],r=1;
+      for (int i=0;i<n;i++)
+      {
+          int x=I.nextInt();
+          if(x%2==0)
+                b[i]=x/2;
+          else
+            {
+                b[i]=(int)((double)x/2+(double)(0.5*r));
+                r*=-1;
+            }
+        }
+      for (int i=0;i<n;i++)
+          System.out.println(b[i]);
+        }
+}
+#python code         108ms
+t,a,r=int(input()),[],1
+for x in range(t):
+    n=int(input())
+    if(n%2==0):
+        a.append(n//2);
+    else:
+        a.append(int(n/2+(0.5*r)))
+        r*=-1
+for x in a:
+          print(x)
