@@ -1,0 +1,44 @@
+//cpp code
+ #include <bits/stdc++.h>
+#include <climits>
+using namespace std;
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+        int t;
+        cin>>t;
+        while(t--){
+        int n;
+        cin>>n;
+        if(n<2019)
+          cout<<"NO"<<'\n';
+        else
+          {
+             int y=n%2020;
+             int z=n/2020;
+             cout<<((y>z)?"NO":"YES")<<'\n';
+        }
+       }
+     return 0;
+//java code                              just the syncing of syntax logically it is same
+import java.util.*;
+public class nnn
+{
+    public static void main(String args[])
+    {
+        Scanner I=new Scanner(System.in);
+        int t=I.nextInt();
+        while(t-->0)
+        {
+            int n=I.nextInt();
+            if(n<2020)
+                    System.out.println("NO");
+            else
+              {
+                  int x=n%2020;
+                  int y=n/2020;
+                  System.out.println((x>y)?"NO":"YES");
+             }
+        }
+    }
+}
