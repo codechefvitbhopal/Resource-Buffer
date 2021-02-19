@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n,m,k;
+        cin>>n>>m>>k;
+        int x=abs(m-n);
+        if(x<=k)
+        {
+            cout<<0<<endl;
+        }
+        else
+        {
+            cout<<x-k<<endl;
+        }
+    }
+    return 0;
+}
