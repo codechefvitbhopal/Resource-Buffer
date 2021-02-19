@@ -12,7 +12,7 @@ int main() {
           int x;
           cin>>x;
           if(x%2==0)
-                b[i]=x/2;               //even no.s can be directly didvided by 2
+                b[i]=x/2;               //even no.s can be directly divided by 2
           else
             {
                 b[i]=(int)((double)x/2+(double)(0.5*r)); //odd no.s undergo a pattern with one floor division and one ceil division alternatively or vice versa
