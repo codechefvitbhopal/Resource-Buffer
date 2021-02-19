@@ -21,13 +21,13 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-|  1.  |  Name 1  |      |
-|  2.  |  Name 2  |      |
-|  3.  |  Name 3  |      |
-|  4.  |  Name 4  |      |
-|  5.  |  Name 5  |      |
-|  6.  |  Name 6  |      |
-|  7.  |  Name 7  |      |
+|  1.  |  Aalok Tanwar  |      |
+|  2.  |  Aditya Vishwakarma  |      |
+|  3.  |  Alok Khansali  |      |
+|  4.  |  Hardik Sharma  |      |
+|  5.  |  Mansi Priya  |      |
+|  6.  |  Adrije Guha |      |
+|  7.  |  Sakalya Mitra |      |
 
 </tr>
 <table>
