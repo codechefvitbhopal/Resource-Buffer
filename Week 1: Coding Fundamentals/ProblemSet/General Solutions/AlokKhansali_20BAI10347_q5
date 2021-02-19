@@ -1,0 +1,47 @@
+#PYTHON CODE
+t=int(input())
+for x in range(t):
+    n,m,k=map(int,input().split())
+    mx,mn=max(n,m),min(n,m)
+    if(mx>=mn+k):
+        print(mx-mn-k)
+    else:
+        print(0)
+//cpp code
+ #include <bits/stdc++.h>
+#include <climits>
+using namespace std;
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+        int t;
+        cin>>t;
+        while(t--){
+         int n,m,k;
+         cin>>n>>m>>k;
+         int mx=max(n,m),mn=min(n,m);
+         if(mx>=mn+k)
+              cout<<(mx-mn-k)<<'\n';
+            else
+              cout<<0<<'\n';
+            }
+          return(0);
+}
+//java code
+import java.util.*;
+class caf
+{
+    public static void main(String args[])
+    {
+        Scanner I=new Scanner (System.in);
+        int t=I.nextInt();
+        while(t-->0)
+        {
+            int n=I.nextInt(),m=I.nextInt(),k=I.nextInt(),mx=Math.max(n,m),mn=Math.min(m,n);
+            if(mx>=mn+k)
+              System.out.println(mx-mn-k);
+            else
+              System.out.println(0);
+            }
+        }
+    }        
