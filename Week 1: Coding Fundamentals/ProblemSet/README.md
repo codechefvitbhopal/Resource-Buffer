@@ -6,17 +6,11 @@
 
 
 
-
-
-
-
-
-
 <table>
-<tr><th>Questions </th><th>Leaderboard</th></tr>
-<tr><td>
+<tr align="left">  
+<h1 align = "center">Questions</h1>
 
-
+![noooooooo](https://media.giphy.com/media/3o7btZ1Gm7ZL25pLMs/giphy.gif)
 
 | S.NO | ☆   | Problem Link                                                                                                                                                                              | Finished                  |
 |--------| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -28,9 +22,9 @@
 |  6.| ★★★★☆ | [Coin Piles](https://cses.fi/problemset/task/1754)                         | <ul> <li> [ ] </li> </ul> |
 |  7.| ★★★★☆ | [Balanced Rating Changes](https://codeforces.com/problemset/problem/1237/A)                         | <ul> <li> [ ] </li> </ul> |
 
-</td><td>
-
-
+</tr>
+<tb align="right">
+<h1 align = "center">LeaderBoard</h1>
 
 | Rank | Name   | Score                                                                                                                                                                          |
 |--------| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,5 +35,11 @@
 |  5.| Name 5                     |  |
 |  6.|  Name 6                        | |
 |  7.| Name 7                      |  |
-</td></tr>
-</table>
+
+</tr>
+<table>
+
+
+
+
+
