@@ -21,13 +21,13 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-|  1.  |  Aalok Tanwar  |      |
-|  2.  |  Aditya Vishwakarma  |      |
-|  3.  |  Alok Khansali  |      |
-|  4.  |  Hardik Sharma  |      |
-|  5.  |  Mansi Priya  |      |
-|  6.  |  Adrije Guha |      |
-|  7.  |  Sakalya Mitra |      |
+|  1.  |  Sakalya Mitra | 70     |
+|  2.  |  Aalok Tanwar |  50    |
+|  3.  |   Alok Khansali |  50    |
+|  4.  |  Aditya Vishwakarma | 30     |
+|  5.  | Adrije Guha   |  30    |
+|  6.  | Hardik Sharma |   20   |
+|  7.  | Mansi Priya |     20 |
 
 </tr>
 <table>
