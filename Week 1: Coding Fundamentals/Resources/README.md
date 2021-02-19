@@ -58,7 +58,9 @@
 
 <h2 align="left">Loops</h2>
 
-![loooooooooooooops](https://media.giphy.com/media/GLF8IKQ1Fvws3BzQ9v/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/GLF8IKQ1Fvws3BzQ9v/giphy.gif" alt="animated" />
+</p>
 
 
 <p>In computer science, a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Programmers use loops to cycle through values, add sums of numbers, repeat functions, and many other things.
