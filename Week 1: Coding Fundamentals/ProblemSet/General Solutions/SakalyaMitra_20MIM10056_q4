@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+  int t;
+  cin >> t;
+  while (t-- > 0) {
+    int n;
+    cin >> n;
+    int y2021 = n % 2020;
+    int y2020 = (n - y2021) / 2020 - y2021;
+    if (y2020 >= 0 && 2020 * y2020 + 2021 * y2021 == n) {
+      cout << "YES\n";
+    } else {
+      cout << "NO\n";
+    }
+  }
+  return 0;
+}
