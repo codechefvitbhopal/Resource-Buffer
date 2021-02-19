@@ -1,0 +1,8 @@
+for _ in range(int(input())):
+    n,m,k = map(int,input().split())
+    d = abs(n-m)
+    if k>=d:
+        print('0')
+    else:
+        print(d-k)
+        
