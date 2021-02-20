@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n, m, k;
+        cin >> n >> m >> k;
+        int diff = 0;
+        if (n > m)
+        {
+            int temp = m;
+            m = n;
+            n = temp;
+        }
+        //now N is always small
+        diff = m - n;
+        if (diff >= k)
+            n = n + k;
+        else
+            n = m;
+        diff = m - n;
+        cout << diff << endl;
+    }
+    return 0;
+}
