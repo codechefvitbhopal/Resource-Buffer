@@ -1,0 +1,19 @@
+x,y,z=[int(x) for x in input().split()]
+if x>=y:
+  if x==y:
+    if z==0:
+      print('0')
+    else:
+      print('?')
+  else:
+    d=x-y
+    if d>z:
+      print('+')
+    else:
+      print('?')
+else:
+  d=y-x
+  if d > z:
+    print('-')
+  else:
+    print('?')
