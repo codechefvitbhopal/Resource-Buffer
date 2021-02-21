@@ -1,0 +1,23 @@
+#python
+try:
+    n = int(input())
+    lst = list(map(int, input().split()[:n - 1]))
+    l = len(lst)
+    lst.sort()
+
+    if l == 1:
+        if lst[0] == 1:
+            print(2)
+        else:
+            print(1)
+    else:
+        r = lst[l - 1] + 1
+        for i in range(l - 1):
+            if ((lst[i + 1] - lst[i]) == 1):
+                continue
+            else:
+                r = lst[i] + 1
+                break
+        print(r)
+except:
+    pass
