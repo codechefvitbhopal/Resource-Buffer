@@ -1,0 +1,17 @@
+a=int(input())
+for i in range (a):
+    x,y=[int(x) for x in input().split()]
+    while(x>0):
+        if x>y:
+            x-=2
+            y-=1
+        else:
+            x=x+y
+            y=x-y
+            x=x-y
+            x-=2
+            y-=1
+    if y == 0:
+        print('YES')
+    else:
+        print('NO')
