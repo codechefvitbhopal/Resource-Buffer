@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long long x, y, z;
+    cin >> x >> y >> z;
+    long long allups=x+z, alldowns=y+z;
+    if (x > y && x > alldowns)
+        cout << "+";
+    else if (y > x && y > allups)
+        cout << "-";
+    else if (x == y && z==0)
+        cout << "0";
+    else
+        cout << "?";
+    return 0;
+}
