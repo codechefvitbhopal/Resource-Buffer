@@ -1,0 +1,25 @@
+def gif(x):
+    y=x//1
+    return y
+def sif(x):
+    if x%1==0:
+        return x
+    else:
+        z = x // 1
+        t = x - z
+        t = 1 - t
+        x = x + t
+        return x
+a=int(input())
+sum=0
+for i in range (a):
+    b=int(input())
+    if i==a-1:
+        print(int(-sum))
+    elif i%2==0:
+        b=sif(b/2)
+        print(int(b))
+    else:
+        b=gif(b/2)
+        print(int(b))
+    sum+=b
