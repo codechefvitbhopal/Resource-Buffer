@@ -1,0 +1,10 @@
+prices=list(map(int,input().split()))
+x=len(prices)
+minval=10e+6
+maxprofit=0
+for i in range(0,x)
+  if prices[i]<minval:
+    minval=prices[i]
+  if(prices[i]-minval>maxprofit):
+    maxprofit=prices[i]-minval
+print(maxprofit)
