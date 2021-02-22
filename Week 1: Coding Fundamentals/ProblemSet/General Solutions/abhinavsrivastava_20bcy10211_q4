@@ -1,0 +1,23 @@
+#python
+
+t=int(input())
+for i in range(t):
+    n=int(input())
+    c=n
+    if(n%2020==0 or n%2021==0):
+        print('YES')
+    else:
+        while (n >2021):
+            c = n - 2020
+            if c%2021==0:
+                print('yes')
+                break
+            else:
+                n=n-2020
+                continue
+        if c%2021!=0:
+            print('no')
+
+
+
+
