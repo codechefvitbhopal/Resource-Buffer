@@ -31,6 +31,8 @@
 
 </tr>
 <table>
+  <p align="right">
+  <img src="https://media.giphy.com/media/3o7btZ1Gm7ZL25pLMs/giphy.gif" alt="animated" />
 
 
 
