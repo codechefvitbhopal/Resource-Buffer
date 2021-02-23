@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+     int length;
+     cin>>length;
+     int array[length];
+     for(int i=0;i<length;i++){
+         cin>>array[i];
+     }
+     for(int o=length-1;o>=0;o--){
+         cout<<array[o]<<" ";
+     }
+    return 0;
+}
