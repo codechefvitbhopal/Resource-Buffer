@@ -1,0 +1,3 @@
+length = int(input())
+data = input().split()[:length] 
+print(' '.join(data[::-1]))
