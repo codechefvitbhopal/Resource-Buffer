@@ -19,7 +19,9 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-
+| 1 | Deepak Maurya | 30 |
+| 2 | Salkalya Mitra | 20 |
+| 3 | Aalok | 10 |
 
 </tr>
 <table>
