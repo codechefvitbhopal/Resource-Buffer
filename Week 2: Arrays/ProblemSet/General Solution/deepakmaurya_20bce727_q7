@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int t; //test cases
+    cin >> t;
+    while (t--)
+    {
+        int size, area = 0; //size of array
+        cin >> size;
+        int array[size];
+        for (int i = 0; i < size; i++)
+        {
+            cin >> array[i];
+        }
+        int a[size]; //this array will contain the heighest bulting at the left side of the current building
+        int b[size]; //this array will contain the heighest bulting at the right side of the current building
+        int mn=array[0];//height of leftmost building
+        int mo=array[size-1];//height of rightmost building
+        for(int i=0;i<size;i++){
+            mn=max(mn,array[i]);
+            a[i]=mn;
+        }
+        for(int i=size-1;i>=0;i--){
+            mo=max(mo,array[i]);
+            b[i]=mo;
+        }
+        for(int i=0;i<size;i++){
+            area+=min(a[i],b[i])-array[i];
+        }
+        cout<<area<<endl;
+    }
+    return 0;
+}
