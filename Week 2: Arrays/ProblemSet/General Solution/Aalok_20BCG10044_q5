@@ -1,0 +1,8 @@
+for _ in range(int(input())):
+    n = int(input())
+    data = list(map(int,input().split()[:n]))
+    r = set(data)
+    c = 0
+    for i in r:
+        c += (data.count(i)//2)
+    print(c)    
