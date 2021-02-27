@@ -19,9 +19,11 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-| 1 | Deepak Maurya | 30 |
-| 2 | Salkalya Mitra | 20 |
-| 3 | Aalok | 10 |
+| 1 | Deepak Maurya | 60 |
+| 2 | Salkalya Mitra | 50 |
+| 3 | Aalok | 40 |
+| 4 | Mansi   | 20 |
+| 5 | Monil    | 10 |
 
 </tr>
 <table>
