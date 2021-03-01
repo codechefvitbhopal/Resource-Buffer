@@ -1,0 +1,19 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sc=new Scanner(System.in);
+		String s=sc.nextLine();
+		StringTokenizer st=new StringTokenizer(s);
+		int l=st.countTokens();
+		    StringBuilder sd=new StringBuilder();
+		    sd.append(st.nextToken());
+		    sd.reverse();
+		    System.out.print(sd+" ");
+		for (int i=0;i<l-1;i++)
+		   System.out.print(st.nextToken()+" " );
+		}
+	}
