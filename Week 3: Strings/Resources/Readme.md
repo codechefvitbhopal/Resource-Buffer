@@ -1,7 +1,7 @@
 # Strings: Resources
 ## Table of Content
   
-  * [What are strings?](#what-are-strings-)
+  * [What are strings?](#what-are-strings)
   * [Language specifics](#language-specifics)
     + [C Programming](#c-programming)
       - [String declaration](#string-declaration)
