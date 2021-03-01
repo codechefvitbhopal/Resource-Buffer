@@ -10,7 +10,7 @@
       - [Length of string](#length-of-string)
       - [More](#more)
       - [Videos](#videos)
-    + [C++](#c--)
+    + [C++](#c)
       - [String declaration](#string-declaration-1)
       - [Accessing ith element](#accessing-ith-element-1)
       - [Size ( number of elements ) of the string](#size---number-of-elements---of-the-string)
