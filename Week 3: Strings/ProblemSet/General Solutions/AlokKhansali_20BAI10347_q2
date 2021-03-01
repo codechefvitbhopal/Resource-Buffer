@@ -1,0 +1,33 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    Scanner sc =new Scanner(System.in);
+	    int n=sc.nextInt();
+	    String s=sc.next();
+	    int k=sc.nextInt();
+	    for(int i=0;i<s.length();i++)
+	        if(Character.isLetter(s.charAt(i)))
+	        {
+	            char c=s.charAt(i);
+	            if((int)c>=65&&(int)c<=90){
+	            int a=s.charAt(i)-'A';
+	            a+=k;
+	            a%=26;
+	                System.out.print((char)(a+'A'));
+	         }
+                else
+                {
+                    int a=s.charAt(i)-'a';
+	                a+=k;
+	                a%=26;
+	                System.out.print((char)(a+'a'));
+	             }
+	        }
+	        else
+	         System.out.print(s.charAt(i));
+    }
+}
