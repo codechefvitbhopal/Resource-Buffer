@@ -1,0 +1,4 @@
+string = input().split()
+print(string[0][::-1],end=' ')
+for i in string[1:]:
+    print(i,end=' ')
