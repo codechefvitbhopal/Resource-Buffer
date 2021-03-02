@@ -1,0 +1,17 @@
+def unique(s):
+    x = ""
+    y = ""
+
+    for z in s:
+       if z != y:
+          x += z 
+       y = z
+    return x
+    
+for t in range(int(input())):
+    s=input()
+    t=input()
+    if(unique(s)==unique(t)):
+        print("YES")
+    else:
+        print("NO")
