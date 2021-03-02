@@ -1,0 +1,21 @@
+size = int(input())
+string = input()
+swift = int(input())
+swift = swift%26
+ans = ''
+for i in string:
+    if (i >= 'a' and i <= 'z') or (i >= 'A' and i <= 'Z'):
+        ascii = ord(i)
+        new_ascii = ascii+swift
+        if i.isupper():
+            if new_ascii>90:
+                new_ascii-=26
+        else:
+            if new_ascii>122:
+                new_ascii-=26
+        
+        ans+=chr(new_ascii)
+    else:
+        ans+=i
+        
+print(ans)    
