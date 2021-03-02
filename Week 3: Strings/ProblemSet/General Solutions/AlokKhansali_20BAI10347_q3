@@ -1,0 +1,27 @@
+import java.util.*;
+class Solution {
+    public int maxPower(String s) {
+        int mx=1,cr=1;
+        char ce=' ';
+        for(int i=0;i<s.length();i++)
+        {
+            char c=s.charAt(i);
+                if(ce==c)
+                    cr++;
+                else {
+                      cr=1;
+                    ce=c;
+                }
+                    if(cr>mx)
+                         mx=cr;
+        }
+        return(mx);
+    }                     //the above mentioned code is to be written at leetcode
+    public static void main( String args[])      //the main function (not required, i wrote it here to state the complete code).
+    {
+        Scanner I=new Scanner(System.in);
+        Solution ob=new Solution();
+        String s=I.next();
+        System.out.println(ob.maxPower(s));
+        }/end of main 
+}//end of class
