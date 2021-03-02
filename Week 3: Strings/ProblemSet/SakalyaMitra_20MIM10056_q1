@@ -1,6 +1,0 @@
-l=input()
-l=l.split(" ")
-x=l[0]
-l[0]=x[::-1]
-for i in l:
-    print(i,end=" ")
