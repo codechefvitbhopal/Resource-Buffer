@@ -1,0 +1,10 @@
+curr_count = 1
+max_count = 1
+for i in range(1, len(s)):
+     if s[i] == s[i-1]:
+          curr_count += 1
+          if max_count < curr_count:
+                max_count = curr_count
+          else:
+                curr_count = 1
+print(max_count)
