@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void summation(int num)
+{
+    int first, last, sum = 0;
+    last = num % 10;
+
+    while (num >= 10)
+    {
+        num = num / 10;
+    }
+    first = num;
+    sum = first + last;
+    cout << sum << endl;
+}
+
+int main()
+{
+    int cases, num;
+    cin >> cases;
+    for (int i = 0; i < cases; i++)
+    {
+        cin >> num;
+        summation(num);
+    }
+    return 0;
+}
