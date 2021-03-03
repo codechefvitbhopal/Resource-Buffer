@@ -1,0 +1,3 @@
+range = int(input())
+num = list(map(int, input().split()))
+print(int(((range*(range+1))/2)-sum(num)))
