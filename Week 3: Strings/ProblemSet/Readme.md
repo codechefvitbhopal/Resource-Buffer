@@ -20,9 +20,9 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-|1 | Aalok Tanwar| 30|
-| 2 |Alok Khansali| 30|
-| 3 | Sakalya Mitra|20 |
+|1 | Aalok Khansali| 40|
+| 2 |Sakalya Mitra| 40|
+| 3 | Alok Tanwar|30 |
 |4 |  Anup| 10|
 
 </tr>
