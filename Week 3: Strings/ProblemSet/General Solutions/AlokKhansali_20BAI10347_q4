@@ -1,0 +1,23 @@
+import java.util.*;
+ class jalebi
+ {
+     public static void main(String args[])
+     {
+         Scanner I=new Scanner(System.in);
+         int n=I.nextInt();
+         while(n-->0)
+         {
+             String s=I.next(),s1=I.next(),t1=s.substring(0,1),t2=s1.substring(0,1);
+             for(int i=1;i<s.length();i++)
+                 if(s.charAt(i)!=t1.charAt(t1.length()-1))
+                    t1+=s.charAt(i);
+             for(int i=1;i<s1.length();i++)
+                 if(s1.charAt(i)!=t2.charAt(t2.length()-1))
+                    t2+=s1.charAt(i);
+             if(t1.equals(t2))
+              System.out.println("Yes");
+             else
+              System.out.println("No");
+            }
+        }
+    }
