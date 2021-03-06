@@ -22,8 +22,10 @@
 |------| -------- | ---- |
 |1 | Aalok Khansali| 40|
 | 2 |Sakalya Mitra| 40|
-| 3 | Alok Tanwar|30 |
-|4 |  Anup| 10|
+| 3 | Alok Tanwar|40 |
+|4| Deepak AMurya|20|
+|5|Anup|10|
+|6|Devanshu|10|
 
 </tr>
 <table>
