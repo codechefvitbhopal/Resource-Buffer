@@ -1,0 +1,11 @@
+class Solution:
+	
+	def longestPalindrome(self, A):
+        p = []
+	    for i in range(len(A)):
+	        for j in range(i+1,len(A)+1):
+	            n = A[i:j]
+	            if n==n[::-1] and n not in p:
+	                p.append(n)
+	    
+	    return max(p, key=len)   
