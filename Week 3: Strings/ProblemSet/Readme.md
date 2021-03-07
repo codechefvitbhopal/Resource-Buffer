@@ -20,9 +20,9 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-|1 | Aalok Khansali| 40|
+|1 | Aalok Tanwar| 50|
 | 2 |Sakalya Mitra| 40|
-| 3 | Alok Tanwar|40 |
+| 3 | Alok Khansai|40 |
 |4| Deepak AMurya|20|
 |5|Anup|10|
 |6|Devanshu|10|
