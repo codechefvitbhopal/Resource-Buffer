@@ -1,0 +1,45 @@
+#include <iostream>
+
+using namespace std;
+int prime(int n){
+    int s=0;
+    for(int p=2;p<n;p++){
+        if(n%p==0){
+            return 0;
+            s++;
+            break;
+        }
+    }
+    if(s==0){
+        return 1;
+    }
+}
+
+int main() {
+    int x;
+    cin>>x;
+    while(x--){
+        int n,k,countfact=0,countprim=0,sop=0;
+        cin>>n>>k;
+        for(int y=1;y<10000;y++){
+        for(int i=1;i<=y;i++){
+            if(y%i==0){
+                countfact++;
+                if(prime(i)==1 & i!=1){
+                    countprim++;
+                }
+            }
+        }
+        if(countprim==k & countfact==n){
+            cout<<1<<endl;
+            sop++;
+            break;
+        }
+        countfact=0;
+        countprim=0;
+    }
+    if(sop==0){
+        cout<<0<<endl;
+    }
+    }
+}
