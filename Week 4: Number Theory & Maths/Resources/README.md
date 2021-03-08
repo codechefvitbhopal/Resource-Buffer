@@ -1,5 +1,6 @@
 
-Number Theory and Basic Mathematics(Although every code u may write involves maths in some way or the other but a few famous concepts are as follows : )
+# Number Theory and Basic Mathematics
+(Although every code u may write involves maths in some way or the other but a few famous concepts are as follows : )
 	
 **Table of Contents**
 
