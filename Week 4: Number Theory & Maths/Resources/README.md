@@ -66,6 +66,7 @@ for references: https://www.geeksforgeeks.org/program-nth-catalan-number/
 	where (ni,nj) = 1 for every ni != nj has a unique solution modulo n where n = n1n2n3...nk  
   
 - Let ci= n/ni for every i. Let di be the solution for the congruence cix = 1 (mod ni) such that 0 <= di < ni. (This solution can be found out using Extended Euclid's algorithm). Then the common solution to the above system of linear equations is given by  
+  
 c = a1c1d1 + a2c2d2 + ... + akckdk
   
 - A direct corollary of the Chinese Remainder theorem is as follows: Let n = p1a1 * p2a2 * .... * pkak be the prime factorization of n. Then, for any integers a and b, we have a = b (mod n) iff a = b (mod piai ) for each i.
