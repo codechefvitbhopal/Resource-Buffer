@@ -32,7 +32,7 @@ further references : https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-nu
 - For LCM simply follow the same procedure and divide it by the HCF found. (Discussed above)
 
 ## Factorial: 
-- n!(n factorial) Simply is multipication of all the values starting from 0 to n
+- n!(n factorial) Simply is multipication of all the values starting from 1 to n
 for references: https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
 
 ## P&C: 
