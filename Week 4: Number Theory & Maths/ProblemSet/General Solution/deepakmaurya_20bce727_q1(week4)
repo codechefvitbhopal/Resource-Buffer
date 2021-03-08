@@ -1,0 +1,21 @@
+#include <iostream>
+
+using namespace std;
+long long int gcd(long long int num2,long long int num1){
+    if(num1==0){
+    return num2;
+    }
+    return gcd(num1,num2%num1);
+}
+
+int main() {
+    int i;
+    cin>>i;
+    while(i--){
+        long long int a,b;
+        cin>>a>>b;
+        long long int num1=max(a,b);
+        long long int num2=min(a,b);
+        cout<<gcd(num2,num1)<<" "<<(a*b)/gcd(num2,num1)<<endl;
+    }
+}
