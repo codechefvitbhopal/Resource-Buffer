@@ -40,7 +40,7 @@ for references: https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
 count of the same
 references: https://www.geeksforgeeks.org/binomial-coefficient-dp-9/
 
-- pegion hole principle(Dirichlet's principle) :
+## pegion hole principle(Dirichlet's principle) :
 	- considering distribution like cases we can refer to pegion hole principle	
 	- https://mathworld.wolfram.com/PigeonholePrinciple.html
 	- https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/
