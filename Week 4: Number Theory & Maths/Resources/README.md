@@ -41,9 +41,9 @@ count of the same
 references: https://www.geeksforgeeks.org/binomial-coefficient-dp-9/
 
 ## pegion hole principle(Dirichlet's principle) :
-	- considering distribution like cases we can refer to pegion hole principle	
-	- https://mathworld.wolfram.com/PigeonholePrinciple.html
-	- https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/
+- considering distribution like cases we can refer to pegion hole principle	
+- https://mathworld.wolfram.com/PigeonholePrinciple.html
+- https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/
 
 ## Primes and primality tests: 
 - Primes make up a huge contribution in competitive programming and there are various ways to store and calculate the primes.
