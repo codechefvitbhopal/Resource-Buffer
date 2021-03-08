@@ -1,0 +1,7 @@
+from math import gcd
+for _ in range(int(input())):
+    a,b = map(int,input().split())
+    hcf = gcd(a,b)
+    lcm = (a*b)//hcf
+    print(f"{hcf} {lcm}")
+    
