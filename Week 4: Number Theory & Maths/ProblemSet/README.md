@@ -19,7 +19,7 @@
 | Rank |   Name   | Score|
 |------| -------- | ---- |
 | 1 | Deepak Maurya | 30 |
-| 2 | Aalok Khansali| 20 |
+| 2 | Aalok Khansali| 30 |
 | 3 | Aalok Tanwar | 20 |
 | 4 | - | - |
 | 5 | - | - |
