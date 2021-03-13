@@ -20,8 +20,8 @@
 |------| -------- | ---- |
 | 1 | Deepak Maurya | 30 |
 | 2 | Aalok Khansali| 30 |
-| 3 | Aalok Tanwar | 20 |
-| 4 | - | - |
+| 3 | Sakalya Mitra | 30 |
+| 4 | Aaalok Tanwar | 20 |
 | 5 | - | - |
 
 </tr>
