@@ -1,0 +1,14 @@
+for _ in range(int(input())):
+    pages = int(input())
+    
+    if pages==1:
+        print("1")
+        print("1 1")
+    else:
+        print(pages//2)
+        if pages%2:
+            print(f"3 1 2 {pages}")
+        else:
+            print(f"2 1 2")
+        for i in range(4,pages+1,2):
+            print(f"2 {i-1} {i}")
