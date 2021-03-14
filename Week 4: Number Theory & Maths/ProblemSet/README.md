@@ -18,11 +18,11 @@
 
 | Rank |   Name   | Score|
 |------| -------- | ---- |
-| 1 | Deepak Maurya | 30 |
-| 2 | Aalok Khansali| 30 |
+| 1 | Alok Khansali | 40 |
+| 2 | Deepak Maurya| 30 |
 | 3 | Sakalya Mitra | 30 |
 | 4 | Aaalok Tanwar | 20 |
-| 5 | - | - |
+| 5 | Anup Pal | 10 |
 
 </tr>
 <table>
