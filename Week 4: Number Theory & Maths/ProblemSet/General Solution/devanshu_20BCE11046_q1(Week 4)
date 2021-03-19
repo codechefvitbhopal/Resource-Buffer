@@ -1,0 +1,23 @@
+//ques: https://www.codechef.com/problems/FLOW016
+//Week 4: problem set 1
+#include <bits/stdc++.h>
+using namespace std;
+void solve()
+{
+    long long int a, b;
+    cin >> a >> b;
+    long long int G = __gcd(a, b), L = (a * b) / G;
+    cout << G << " " << L << endl;
+}
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+    return 0;
+}
