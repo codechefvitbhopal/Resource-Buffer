@@ -34,7 +34,7 @@
 ## What are Arrays?
 - An **array** is a collection of data items of the **same data type**.
 	 For example if an array is of type *int*, it can only store integer elements and cannot allow the elements of other types such as *double*, *float*, *char* etc.
-- Elements of an array are stored in** contiguous memory locations**. 
+- Elements of an array are stored in **contiguous memory locations**. 
 - They are **zero-indexed**
 - Many data structures are built on top of arrays.
 
